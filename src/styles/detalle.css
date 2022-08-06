@@ -1,0 +1,22 @@
+.infoMoviesdetalle h5 , p {
+    color: white !important;
+}
+
+.tittleDetalle{
+    color: white !important;
+}
+
+.genresName  {
+    color: white !important;
+}
+
+ul {
+    color: white !important;
+}
+
+.btnver-pelicula{
+    background: white !important;
+    font-size: 20px !important;
+    color: black !important;
+    
+}

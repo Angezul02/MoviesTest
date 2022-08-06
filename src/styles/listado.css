@@ -1,0 +1,16 @@
+.card-container{
+    background-color: black !important;
+    color: aliceblue !important;
+
+}
+ /* vista de celular */
+@media (max-width: 600px){
+    .container-list{
+        display: flex !important;
+        
+        flex-direction: column !important;
+    }
+    .container-cards{
+        width: 500px !important;
+    }
+}
